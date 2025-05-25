@@ -1,0 +1,5 @@
+{
+  "task_description": "{'component_name': 'Main Container for MeterEase Mobile', 'description': 'Primary container for MeterEase Mobile implementation: A mobile app designed for electricity board (EB) officers to efficiently record and manage electricity meter readings for consumers. The app streamlines the process, reduces manual errors, and allows officers to upload readings directly to the central system.', 'framework': 'ios', 'platform': 'web'}",
+  "tasks": {},
+  "next_task_id": 1
+}
